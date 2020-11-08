@@ -113,6 +113,9 @@ iframe表示嵌套在浏览器的上下文，能有效的将另一个html页面�
 
 如下图所示：
 
+<img src="https://github.com/tugenhua0707/micro-front-end/tree/master/vue-micro-front-end/images/1.png"> <br />
+
+<img src="https://github.com/tugenhua0707/micro-front-end/tree/master/vue-micro-front-end/images/2.png"> <br />
 
 #### 七：前端微服务架构DEMO实践 --- vue项目
 
