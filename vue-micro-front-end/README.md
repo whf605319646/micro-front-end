@@ -119,7 +119,7 @@ iframe表示嵌套在浏览器的上下文，能有效的将另一个html页面�
 
 #### 七：前端微服务架构DEMO实践 --- vue项目
 
-项目链接地址：
+项目链接地址：<a href="https://github.com/tugenhua0707/micro-front-end/tree/master/vue-micro-front-end">微前端服务架构入门(一)</a>
 
 #### 使用微前端开发，可以总结如下几个优点：
 
